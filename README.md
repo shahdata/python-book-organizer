@@ -68,14 +68,14 @@ Termcolor – for colored terminal output
 Regex (re) – for text extraction and cleaning
 
 Project Structure:
-├── Python_BookPlanner.ipynb                # Main application script
-├── README.md              # Project documentation
+Python_BookPlanner.ipynb                # Main application script
+README.md              # Project documentation
 
 Installation:
 
 Clone the repository
 
-git clone https://github.com/shahdata/Python_BookPlanner.git
+git clone https://github.com/shahdata/python-book-organizer
 
 Navigate to the project folder
 
